@@ -1,0 +1,39 @@
+---------------------
+
+list all triggers
+show triggers;
+
+list all indexes from a particular table
+show index from table_name;
+
+list all views
+show tables;
+
+----------------------
+
+create trigger trigger_name (copies_deduct) event (before insert) on database_name (booksissue) action (update books set copies = copies - 1 where books.bid = new.bid) ;
+
+create view view_name (vview1) as select columns_name (customernumber, customername) from table_name (customer) where condition (customernumber < 1500);
+
+create index index_name (i_cn) on customer(customernumber, customername);
+
+--------------------------
+
+create or replace view view_name (vview1) as select columns_name (customernumber, customername, phone) from table_name (customer) where condition (customernumber < 1500);
+
+select * from view_name;
+
+delete from view_name;
+
+drop view view_name;
+
+--------------------------
+
+select * from table_name use index(index_name) where condition;
+
+drop index index_name on table_name;
+
+alter table table_name drop view view_name;
+
+-------------------------
+

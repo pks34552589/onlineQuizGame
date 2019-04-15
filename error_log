@@ -1,0 +1,43 @@
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/index.php on line 9
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/index.php on line 10
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/index.php on line 15
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 7
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 8
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 16
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: name in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 23
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined index: email in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 24
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 62
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 63
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 73
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 74
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 84
+[25-Jan-2019 17:18:19 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 85
+[25-Jan-2019 17:19:45 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/level1_start.php on line 77
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/index.php on line 9
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/index.php on line 10
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/index.php on line 15
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 7
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 8
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 16
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: name in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 23
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined index: email in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 24
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 62
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 63
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 73
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 74
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 84
+[01-Apr-2019 05:48:35 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 85
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/index.php on line 9
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/index.php on line 10
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/index.php on line 15
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: mobile in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 7
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: class in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 8
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webliqhv/public_html/quriosity/shared/sidenav.php on line 16
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: name in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 23
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined index: email in /home/webliqhv/public_html/quriosity/shared/topNav.php on line 24
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 62
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score1 in /home/webliqhv/public_html/quriosity/index.php on line 63
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 73
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score2 in /home/webliqhv/public_html/quriosity/index.php on line 74
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 84
+[01-Apr-2019 05:48:39 Etc/GMT] PHP Notice:  Undefined variable: score3 in /home/webliqhv/public_html/quriosity/index.php on line 85

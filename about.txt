@@ -1,0 +1,24 @@
+Technical regime -
+
+1)JavaScript, HTML and CSS for front-end, layout.
+2)Bootstrap 4.0 for responsiveness of the website.
+3)PHP for server side scripting
+4)Phpmyadmin for database management
+5)WAMP server as development environment to create the website with Apache, PHP and MySQL. 
+
+
+Implementaton - 
+
+1)Implemented Quiz game (for the students of class 6th to 12th) conducted in three levels in which Personalized dashboard designed for the students.
+2)Using javascript -
+   - prevention of any sort of unintented activity is ensured by forcing the test to be conducted only in fullscreen mode. As soon as user attemps to exits from the fullscreen mode, test gets automatically submitted.
+   - Timer is attached (depending upon the levels), to guarantee automatic submission of the test after the time ends.
+3)User authentication (Signup and Login for the user) and Dynamic Content Loading (Personalized dashboard for the user) using PHP.
+4)Phpmyadmin is used for easy management of the MySQL database.
+
+
+SELECT customer.customername, count(price) FROM customer, orders, orderdetails WHERE customer.customernumber = orders.customernumber AND orders.ordernumber = orderdetails.ordernumber group by customer.customernumber HAVING customer.customernumber = 128 
+
+
+
+SELECT DISTINCT(H.hacker_id), H.name FROM Hackers H,Submissions S, Difficulty D, Challenges C,Submissions S1, Difficulty D1, Challenges C1 WHERE H.hacker_id = S.hacker_id AND S.challenge_id = C.challenge_id AND C.difficulty_level = D.difficulty_level AND S.score = D.score AND S.hacker_id = S1.hacker_id AND S.challenge_id != S1.challenge_id AND S1.challenge_id = C1.challenge_id AND C1.difficulty_level = D1.difficulty_level AND S1.score = D1.score;
